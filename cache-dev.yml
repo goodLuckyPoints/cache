@@ -1,7 +1,7 @@
 server:
-  port: 8761
+  port: 6379
 spring:
   redis:
-    port: 8671
+    port: 6379
     host: 192.168.194.138
     password: like
