@@ -1,2 +1,7 @@
 server:
   port: 8761
+spring:
+  redis:
+    port: 8671
+    host: 192.168.194.138
+    password: like
