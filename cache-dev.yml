@@ -5,3 +5,9 @@ spring:
     port: 6379
     host: 192.168.194.139
     password: like
+  rabbitmq:
+    host: 192.168.194.139
+    port: 5672
+    virtual-host: admin
+    username: admin
+    password: admin
